@@ -1,0 +1,5 @@
+print("sinh viên : Nguyen Phuoc Hung")
+print("mssv: 205751030110042")
+print("###############")
+f = open("D:/test.txt", 'r')
+print(f.read())
